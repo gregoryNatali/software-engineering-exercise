@@ -1,0 +1,4 @@
+{
+  "name": "Hello Popup App",
+  "description": "A simple React application featuring a button that, when clicked, displays a 'Hello World!' popup modal. Styled with Tailwind CSS for a modern look and feel."
+}
